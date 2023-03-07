@@ -1,3 +1,4 @@
 # lucichan-src
-what u need:
+requirements:
+
 PHP 7.3.11
