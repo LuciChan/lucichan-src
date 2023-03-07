@@ -1,5 +1,4 @@
 # lucichan-src
+LuciChan source code
 
-+ this is just tinyib-mappy but modified
-
-# a
++ also this is just tinyib-mappy but modified
