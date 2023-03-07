@@ -1,9 +1,5 @@
 # lucichan-src
-+ i
-+ need
-+ to
-+ shit
-+ rlly
-+ bad
 
-;-;
++ this is just tinyib-mappy but modified
+
+#a
