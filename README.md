@@ -1,2 +1,2 @@
 # lucichan-src
-tinyib-mappy
+tinyib-mappy but modified
