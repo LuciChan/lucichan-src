@@ -1,8 +1,7 @@
 # lucichan-src
-**ok wtf is this?????**
+# ok wtf is this??
+dis da sauce code of my shitty ass imageboard website
 
-+ da sauce code of my shitty ass imageboard website
+ this i sjust tinyib-mappy but modified
 
-+ this i sjust tinyib-mappy but modified
-
-# 3/7/2023 i fixe d the uhmmmmmmmmmm url bug and ywea
++ 3/7/2023 i fixe d the uhmmmmmmmmmm url bug and ywea
