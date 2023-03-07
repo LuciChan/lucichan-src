@@ -1,2 +1,3 @@
 # lucichan-src
-#idk what to put here
+what u need:
+PHP 7.3.11
