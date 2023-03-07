@@ -1,2 +1,8 @@
 # lucichan-src
-+ this is just tinyib-mappy but modifeid modifiwd modified and yeeeee
++ i
++ need
++ to
++ shit
++ rlly
++ bad
+**;-;**
